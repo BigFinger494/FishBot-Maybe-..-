@@ -4,10 +4,8 @@ using System.Drawing;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using AForge.Imaging;
-using AForge.Imaging.Filters;
-//using Accord.Vision.Detection;
-//using Accord.Vision.Detection.Cascades;
+using Accord.Vision.Detection;
+using Accord.Vision.Detection.Cascades;
 
 namespace IdkWhatShitAmIDoing
 {
